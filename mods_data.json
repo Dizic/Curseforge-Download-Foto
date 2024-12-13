@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "Just Enough Items (JEI)",
+    "description": "View Items and Recipes",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/jei",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
+  },
+  {
+    "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+    "description": "Config Screen API for Minecraft",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png"
+  },
+  {
+    "name": "GeckoLib",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png"
+  },
+  {
+    "name": "Architectury API (Fabric/Forge/NeoForge)",
+    "description": "An intermediary api aimed to ease developing multiplatform mods.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png"
+  },
+  {
+    "name": "Mouse Tweaks",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png"
+  },
+  {
+    "name": "Bookshelf",
+    "description": "An open source library for other mods!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png"
+  },
+  {
+    "name": "AppleSkin",
+    "description": "Adds some useful information about food/hunger to the HUD",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png"
+  },
+  {
+    "name": "Controlling",
+    "description": "Adds a search bar to the Key-Bindings menu",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png"
+  },
+  {
+    "name": "Moonlight Lib",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades,, custom Map Markers, First and third person item animations, dynamic assets and registration & more",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/selene",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png"
+  },
+  {
+    "name": "Clumps",
+    "description": "Clumps XP orbs together to reduce lag",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/84/193/256/256/636193647832736518_animated.gif"
+  },
+  {
+    "name": "Jade 🔍",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+)",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/jade",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png"
+  },
+  {
+    "name": "Waystones",
+    "description": "Teleport back to activated waystones. For Survival, Adventure or Servers.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1107/108/256/256/638657104456838765.png"
+  },
+  {
+    "name": "ModernFix",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png"
+  },
+  {
+    "name": "Curios API (Forge/NeoForge)",
+    "description": "A flexible and expandable accessory/equipment API for users and developers.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/curios",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png"
+  },
+  {
+    "name": "Enchantment Descriptions",
+    "description": "Adds in-game descriptions for enchantments to tooltips.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/981/433/256/256/638488257207041172.png"
+  },
+  {
+    "name": "Complementary Shaders - Reimagined",
+    "description": "Preserving the elements of Minecraft with exceptional quality, detail, and performance.",
+    "url": "https://www.curseforge.com/minecraft/shaders/complementary-reimagined",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/875/481/256/256/638298072734336144.png"
+  },
+  {
+    "name": "Nature's Compass",
+    "description": "Nature's Compass is an item that allows you to locate biomes anywhere in the world.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/54/102/256/256/636131217371752080.png"
+  },
+  {
+    "name": "Placebo",
+    "description": "A library mod",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/placebo",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/134/260/256/256/636490526725752670.png"
+  },
+  {
+    "name": "Farmer's Delight",
+    "description": "A cozy expansion to farming and cooking!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png"
+  },
+  {
+    "name": "Cupboard",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png"
+  },
+  {
+    "name": "Comforts (Fabric/Forge/Quilt)",
+    "description": "Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. Comes in 16 different colors!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/comforts",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/203/105/256/256/636930549407382137.png"
+  },
+  {
+    "name": "FerriteCore ((Neo)Forge)",
+    "description": "Memory usage optimizations",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg"
+  },
+  {
+    "name": "Entity Culling Fabric/Forge",
+    "description": "Using async path-tracing to hide Tiles/Entities that are not visible",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png"
+  },
+  {
+    "name": "Balm",
+    "description": "Abstraction Layer (but not really)™ for Blay's multiplatform mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/balm",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png"
+  },
+  {
+    "name": "Collective",
+    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/collective",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png"
+  },
+  {
+    "name": "Patchouli",
+    "description": "Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/patchouli",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/588/685/256/256/637958998949519797.png"
+  },
+  {
+    "name": "Sophisticated Backpacks",
+    "description": "Yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png"
+  },
+  {
+    "name": "CreativeCore",
+    "description": "a core mod",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/86/225/256/256/636207446427836220.png"
+  },
+  {
+    "name": "Konkrete [Forge/NeoForge]",
+    "description": "Just another boring library mod.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/konkrete",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/302/731/256/256/637368998906148773.png"
+  },
+  {
+    "name": "JourneyMap",
+    "description": "Real-time mapping in-game or your browser as you explore.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png"
+  },
+  {
+    "name": "Sophisticated Core",
+    "description": "Library mod for Sophisticated mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/540/438/256/256/637866039314801108.png"
+  },
+  {
+    "name": "FTB Library (Forge)",
+    "description": "Common code for all GUI stuff in FTB Mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/972/575/256/256/638474885844428954.png"
+  },
+  {
+    "name": "FancyMenu",
+    "description": "Customize Minecraft's menus with ease!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/935/544/256/256/638412386316055428.png"
+  },
+  {
+    "name": "Xaero's Minimap",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png"
+  },
+  {
+    "name": "Puzzles Lib [Forge & Fabric]",
+    "description": "Why's it called Puzzles you ask? That's the puzzle!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/776/232/256/256/638118144989284933.png"
+  },
+  {
+    "name": "Polymorph (Fabric/Forge/Quilt)",
+    "description": "No more recipe conflicts! Adds an option to choose the crafting result if more than one is available.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/polymorph",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/279/271/256/256/637277042531842540.png"
+  },
+  {
+    "name": "Better Advancements",
+    "description": "Successor to BetterAchievements for the new advancements system in minecraft 1.12+",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/better-advancements",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/106/654/256/256/636360849723336023.png"
+  },
+  {
+    "name": "spark",
+    "description": "spark is a performance profiler for Minecraft clients, servers and proxies.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/spark",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/495/151/256/256/637808085409071880.png"
+  },
+  {
+    "name": "Oculus",
+    "description": "Unofficial Fork of \"Iris\", made to work with FML",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/oculus",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/495/526/256/256/637808944989585825.jpeg"
+  },
+  {
+    "name": "Supplementaries",
+    "description": "Vanilla+ additions: Jars, signposts, faucets, weather vanes spring launchers, sconces, planters, lights, decoration and automation",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif"
+  },
+  {
+    "name": "Carry On",
+    "description": "Carry On allows you to pick up Tile Entities and Mobs and carry them around!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/carry-on",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/109/514/256/256/636380307126307812.png"
+  },
+  {
+    "name": "Citadel",
+    "description": "A Lightweight Library",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/citadel",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/214/988/256/256/636995179309161946.png"
+  },
+  {
+    "name": "Resourceful Lib",
+    "description": "Lib for Team Resourceful and more",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/resourceful-lib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/595/433/256/256/637970304404281534.png"
+  },
+  {
+    "name": "Quark",
+    "description": "A Quark is a very small thing. This mod is a collection of small things that improve the vanilla minecraft experience.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/quark",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/588/295/256/256/637958240318838626.png"
+  },
+  {
+    "name": "FTB Teams (Forge)",
+    "description": "Library for mods that can utilize team progression",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/972/581/256/256/638474887222710106.png"
+  },
+  {
+    "name": "Kotlin for Forge",
+    "description": "Adds a Kotlin language loader and provides some optional utilities.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/236/269/256/256/637091078382616109.png"
+  },
+  {
+    "name": "Searchables",
+    "description": "Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/814/175/256/256/638189233295197018.png"
+  },
+  {
+    "name": "FTB Quests (Forge)",
+    "description": "Questing Mod by FTB",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/972/571/256/256/638474884805475097.png"
+  },
+  {
+    "name": "YUNG's API (Forge)",
+    "description": "A library mod for some of YUNG's Minecraft mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-api",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/136/256/256/638311022829381213.png"
+  },
+  {
+    "name": "playerAnimator",
+    "description": "player animation library",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/588/418/256/256/637958435315527412.png"
+  },
+  {
+    "name": "ImmediatelyFast",
+    "description": "Speed up immediate mode rendering in Minecraft",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png"
+  },
+  {
+    "name": "AttributeFix",
+    "description": "Removes arbitrary limits on Minecraft's attribute system.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/981/435/256/256/638488257660151687.png"
+  },
+  {
+    "name": "Xaero's World Map",
+    "description": "Adds a fullscreen worldmap which shows you what you have explored in the world. Can work together with Xaero's Minimap.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png"
+  },
+  {
+    "name": "Not Enough Animations",
+    "description": "Bringing first-person animations to the third-person",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/329/74/256/256/637454010542845990.png"
+  },
+  {
+    "name": "Biomes O' Plenty",
+    "description": "Adds 50+ unique biomes to enhance your world, with new trees, flowers, and more!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/477/194/256/256/637771671789296797.png"
+  },
+  {
+    "name": "SuperMartijn642's Config Lib",
+    "description": "Config Lib makes dealing with config files just a bit easier.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/334/247/256/256/637467847705006848.png"
+  },
+  {
+    "name": "TerraBlender (Forge)",
+    "description": "A library mod for adding biomes in a simple and compatible manner!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/terrablender",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/478/14/256/256/637773351522362655.png"
+  },
+  {
+    "name": "SuperMartijn642's Core Lib",
+    "description": "SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/352/207/256/256/637507429195617557.png"
+  },
+  {
+    "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+    "description": "Custom, Emissive and Varied mobs like Optifine and so much more.. +Player skin features!)",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/983/279/256/256/638491557830728907.png"
+  },
+  {
+    "name": "Iceberg [Neo/Forge]",
+    "description": "A modding library that contains new events, helpers, and utilities to make modder's lives easier.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/iceberg",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/425/207/256/256/637653794535451378.png"
+  },
+  {
+    "name": "Item Filters",
+    "description": "Item Filters is a library mod that is used by mods like FTB Quests. It adds several filter items that let you precisely select which items to match.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/item-filters",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/183/63/256/256/636812486536100113.png"
+  },
+  {
+    "name": "Framework",
+    "description": "A library providing powerful utilities for developers",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/framework",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/871/312/256/256/638288810018379517.png"
+  },
+  {
+    "name": "YUNG's Better Mineshafts (Forge)",
+    "description": "A long-awaited and much-needed abandoned mineshaft overhaul!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/107/256/256/638311012004755859.png"
+  },
+  {
+    "name": "Fabric API",
+    "description": "Core API library for the Fabric toolchain",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-api",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/185/822/256/256/636829723898798601.png"
+  },
+  {
+    "name": "Create",
+    "description": "Aesthetic Technology that empowers the Player",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/create",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png"
+  },
+  {
+    "name": "Embeddium",
+    "description": "A powerful, mod-friendly, FOSS client performance mod for NeoForge",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/embeddium",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/893/778/256/256/638336829931216743.png"
+  },
+  {
+    "name": "Just Enough Resources (JER)",
+    "description": "A JEI addon that adds mob drops, ore gen, ..",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/32/419/256/256/635880199659979425.png"
+  },
+  {
+    "name": "Alex's Mobs",
+    "description": "85+ New mobs with stylistic quality above the default game.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/543/777/256/256/637874731161865623.jpeg"
+  },
+  {
+    "name": "Sound Physics Remastered",
+    "description": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/442/531/256/256/637694502660771592.png"
+  },
+  {
+    "name": "Caelus API (Forge/NeoForge)",
+    "description": "A coremod and API to provide developers access to elytra flight mechanics through an entity attribute.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/caelus",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/181/894/256/256/636803819154686484.png"
+  },
+  {
+    "name": "Lootr (Forge & NeoForge)",
+    "description": "A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/lootr",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/337/5/256/256/637473842688195004.png"
+  },
+  {
+    "name": "[EMF] Entity Model Features [Fabric & Forge]",
+    "description": "EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/entity-model-features",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/983/284/256/256/638491564386011875.png"
+  },
+  {
+    "name": "Melody",
+    "description": "OpenAL-based library mod for playing background music.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/melody",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/906/317/256/256/638356335017026234.png"
+  },
+  {
+    "name": "Complementary Shaders - Unbound",
+    "description": "Transforming the visuals of Minecraft with exceptional quality, detail, and performance.",
+    "url": "https://www.curseforge.com/minecraft/shaders/complementary-unbound",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
+  },
+  {
+    "name": "Cosmetic Armor Reworked",
+    "description": "This mod allows you to wear two sets of armor, one for display, one for function.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/27/600/256/256/635812915333870435.png"
+  },
+  {
+    "name": "Connectivity",
+    "description": "Fix Login timeouts, Packet sizes errors, Payloads errors, ghostblocks and more.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/532/325/256/256/637855720922086407.png"
+  },
+  {
+    "name": "fix GPU memory leak[Forge/Fabric]",
+    "description": "A mod that fixes memory leaks on the client",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/841/827/256/256/638236647684351264.png"
+  },
+  {
+    "name": "Chipped",
+    "description": "Every block deserves a friend.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/chipped",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/495/254/256/256/637808243655328652_animated.gif"
+  },
+  {
+    "name": "MmmMmmMmmMmm (Target Dummy)",
+    "description": "Target Dummy that show damage dealt and can be equipped with armor. Damage numbers!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png"
+  },
+  {
+    "name": "CoroUtil",
+    "description": "Library Mod for Weather/Tropicraft/ZombieAwareness/etc",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/coroutil",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/52/497/256/256/636115233396260155.png"
+  },
+  {
+    "name": "Macaw's Bridges",
+    "description": "A simple mod that adds a lot of bridges!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-bridges",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/237/234/256/256/637098539787193844.jpeg"
+  },
+  {
+    "name": "Rhino",
+    "description": "A fork of Mozilla's Rhino library, modified for use in mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/rhino",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1053/155/256/256/638583713150199979.png"
+  },
+  {
+    "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]",
+    "description": "Enables lag-free continuous chunk saving, increasing server TPS",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/536/807/256/256/637859186206116434.png"
+  },
+  {
+    "name": "KubeJS",
+    "description": "Edit recipes, add new custom items, script world events, all in JavaScript!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/kubejs",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png"
+  },
+  {
+    "name": "FTB XMod Compat",
+    "description": "Official multi-mod integrations support for the FTB Mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/850/409/256/256/638251965015898859.png"
+  },
+  {
+    "name": "AutoRegLib",
+    "description": "A library to ease menial tasks in mod development.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/autoreglib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/588/688/256/256/637958999303347142.png"
+  },
+  {
+    "name": "Chat Heads",
+    "description": "See who are you chatting with! Now for Forge too!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/299/225/256/256/637352537610256484.png"
+  },
+  {
+    "name": "Artifacts",
+    "description": "Adds various treasure items that can be found through exploration",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/artifacts",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png"
+  },
+  {
+    "name": "Athena",
+    "description": "A crossplatform (Forge/Fabric) solution to connected block textures for 1.19.4+",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/athena",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/802/591/256/256/638167374895521681.png"
+  },
+  {
+    "name": "Sodium",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
+  },
+  {
+    "name": "YUNG's Better Dungeons (Forge)",
+    "description": "A complete redesign of Minecraft's dungeons!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/111/256/256/638311013966535180.png"
+  },
+  {
+    "name": "Storage Drawers",
+    "description": "Interactive compartment storage for your workshops.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/10/842/256/256/635468327818431130.png"
+  },
+  {
+    "name": "The Twilight Forest",
+    "description": "A realm basked in mystery and eerie twilight, you will overpower terrifying creatures and secure the adventure of a lifetime; in the Twilight Forest.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/14/212/256/256/635589178760357568.png"
+  },
+  {
+    "name": "Amendments",
+    "description": "Cauldron Potion Mixing, Lanterns Animation, Carpeted Stairs, Candle Skulls, Double Cakes, Better Lilypads and much more",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/amendments",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/951/632/256/256/638441223877296738_animated.gif"
+  },
+  {
+    "name": "Toast Control",
+    "description": "Control toasts, those popups in the corner!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/toast-control",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/105/330/256/256/636352185216944005.png"
+  },
+  {
+    "name": "Just Enough Professions (JEP)",
+    "description": "A JEI addon that adds profession workstations",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/311/84/256/256/637401177607519178.png"
+  },
+  {
+    "name": "AmbientSounds 6",
+    "description": "#listentonature",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/65/45/256/256/636158453613581226.png"
+  },
+  {
+    "name": "Structure Gel API",
+    "description": "An API for simplifying the developer end of creating generated structures.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/structure-gel-api",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/549/200/256/256/637886005152471553.png"
+  },
+  {
+    "name": "Packet Fixer",
+    "description": "A simple mod to solve various problems with packets and NBTs.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/packet-fixer",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/846/951/256/256/638246065460259726.png"
+  },
+  {
+    "name": "Corpse",
+    "description": "Never lose your items again!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/corpse",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/194/489/256/256/636873305017840968.png"
+  },
+  {
+    "name": "Resourceful Config",
+    "description": "Resourceful Config is a mod that allows for developers to make crossplatform configs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/653/207/256/256/638055943654285366.png"
+  },
+  {
+    "name": "NetherPortalFix",
+    "description": "Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/netherportalfix",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/33/283/256/256/635893403164870085.png"
+  },
+  {
+    "name": "Better Fps - Render Distance[Forge]",
+    "description": "Better fps for 1.16+ minecraft, improved render distances",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/531/771/256/256/637854357042030339.png"
+  },
+  {
+    "name": "Structure Essentials[Forge/Fabric]",
+    "description": "faster locate command, advance error logging, nearby structure checks and more",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/784/172/256/256/638132898813460745.png"
+  },
+  {
+    "name": "Aquaculture 2",
+    "description": "Spices up fishing with a number of new biome specific fish, recipes, and more!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aquaculture",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/230/320/256/256/637059909042064016.png"
+  },
+  {
+    "name": "No Chat Reports",
+    "description": "Makes chat unreportable (where possible)",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/no-chat-reports",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/560/68/256/256/637910636688514454.png"
+  },
+  {
+    "name": "Applied Energistics 2",
+    "description": "A Mod about Matter, Energy and using them to conquer the world..",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2",
+    "imageUrl": "https://media.forgecdn.net/avatars/1025/127/638548475358792693.webp"
+  },
+  {
+    "name": "YUNG's Better Nether Fortresses (Forge)",
+    "description": "A complete redesign of Minecraft's Nether fortresses!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/118/256/256/638311018415562520.png"
+  },
+  {
+    "name": "FastWorkbench",
+    "description": "A performance upgrade for the crafting table.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fastworkbench",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/164/244/256/256/636686097718417988.png"
+  },
+  {
+    "name": "YUNG's Better Strongholds (Forge)",
+    "description": "A complete redesign of Minecraft's strongholds",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/109/256/256/638311012913164558.png"
+  },
+  {
+    "name": "OpenBlocks Elevator",
+    "description": "Port of OpenBlocks Elevator.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/91/358/256/256/636247292369687944.png"
+  },
+  {
+    "name": "Fresh Animations",
+    "description": "Dynamic animated entities to freshen your Minecraft experience.",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/fresh-animations",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/764/889/256/256/638100269802655822.png"
+  },
+  {
+    "name": "Iris Shaders",
+    "description": "A modern shaders mod for Minecraft intended to be compatible with existing Optifine shaders",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/irisshaders",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png"
+  },
+  {
+    "name": "Crafting Tweaks",
+    "description": "Allows you to rotate, balance or clear the crafting matrix by the press of a button, in any (supported) crafting window.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/49/427/256/256/636077959957495136.png"
+  },
+  {
+    "name": "Handcrafted",
+    "description": "Make your house a home!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/handcrafted",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/676/448/256/256/638067467429210259_animated.gif"
+  },
+  {
+    "name": "Legendary Tooltips [Neo/Forge]",
+    "description": "Give your rare items a fancier tooltip!  Also adds additional tooltip configuration options.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/438/697/256/256/637684634562173457.png"
+  },
+  {
+    "name": "Serene Seasons",
+    "description": "Seasons with changing colors, shifting temperatures, and more!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/200/256/256/638311173747555092.png"
+  },
+  {
+    "name": "When Dungeons Arise - Forge!",
+    "description": "Adds various elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/405/21/256/256/637616382422917614.png"
+  },
+  {
+    "name": "CraftTweaker",
+    "description": "CraftTweaker allows modpacks and servers to customize the game. With CraftTweaker you can change recipes, script events, add new commands and even change item properties!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/142/108/256/256/636546700830987709.png"
+  },
+  {
+    "name": "Towns and Towers",
+    "description": "Spice up your world with new villages, pillager outposts, and even new ships!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/towns-and-towers",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/551/161/256/256/637888384577155054.png"
+  },
+  {
+    "name": "Macaw's Doors",
+    "description": "Adds vanila doors with every wood color and new unique doors!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/303/442/256/256/637372493411502504.jpeg"
+  },
+  {
+    "name": "Elytra Slot (Fabric/Forge/Quilt)",
+    "description": "Adds curio support to the elytra so you can fly and wear chest armor at the same time. Formerly known as Curious Elytra.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/elytra-slot",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/209/40/256/256/636979175379460863.png"
+  },
+  {
+    "name": "Yeetus Experimentus",
+    "description": "Yeetus Experimental Settings",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/561/302/256/256/637913385213961485.png"
+  },
+  {
+    "name": "Sodium/Embeddium Dynamic Lights",
+    "description": "Multiloader port of LambDynLights that adds Sodium/Embeddium settings support",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1068/309/256/256/638602793082566240.png"
+  },
+  {
+    "name": "Cristel Lib",
+    "description": "A Library mod for easy structure config and runtime datapacks.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cristel-lib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/812/326/256/256/638185606434483161.jpeg"
+  },
+  {
+    "name": "YUNG's Better Ocean Monuments (Forge)",
+    "description": "A complete redesign of Minecraft's ocean monuments!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/116/256/256/638311017813611458.png"
+  },
+  {
+    "name": "AI Improvements",
+    "description": "Performance and logic upgrades for mod AIs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/21/699/256/256/635731173265581096.png"
+  },
+  {
+    "name": "Macaw's Fences and Walls",
+    "description": "Adds new vanila styled fences, walls and gates!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/351/704/256/256/637506435866467167.png"
+  },
+  {
+    "name": "Simple Voice Chat",
+    "description": "A working voice chat in Minecraft!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/391/367/256/256/637584172062782791.png"
+  },
+  {
+    "name": "Skin Layers 3D (Fabric/Forge)",
+    "description": "Render the player skin layer in 3d!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/426/742/256/256/637657627491599401.png"
+  },
+  {
+    "name": "Structory",
+    "description": "An atmospheric structure mod for Fabric/Forge/Quilt.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/structory",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/562/581/256/256/637916418629477919.png"
+  },
+  {
+    "name": "Drippy Loading Screen",
+    "description": "Addon for FancyMenu to customize the loading screen.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/415/118/256/256/637638101350387776.png"
+  },
+  {
+    "name": "Ars Nouveau",
+    "description": "Craft custom spells, summon magical servants, and make powerful wearables and tools!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ars-nouveau",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/565/915/256/256/637924211543296813.png"
+  },
+  {
+    "name": "Deeper and Darker",
+    "description": "Deep Dark expansion mod adding new mobs, items, blocks and a new dimension.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/deeperdarker",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1055/574/256/256/638586877714541407.png"
+  },
+  {
+    "name": "YUNG's Better End Island (Forge)",
+    "description": "An overhaul of the main End Island where the dragon fight takes place!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/124/256/256/638311019747754894.png"
+  },
+  {
+    "name": "FTB Chunks (Forge)",
+    "description": "A mod that allows you to claim chunks to protect your blocks and view minimap / large map",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/972/573/256/256/638474885347244172.png"
+  },
+  {
+    "name": "FastFurnace",
+    "description": "A performance upgrade for the furnace.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fastfurnace",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/164/243/256/256/636686097562167838.png"
+  },
+  {
+    "name": "Fast Leaf Decay",
+    "description": "Makes leaves decay faster when a tree is cut down.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/18/699/256/256/635683366119611662.png"
+  },
+  {
+    "name": "BisectHosting Server Integration Menu [FORGE]",
+    "description": "BisectHosting Server List Integration Menu for Modpacks [FORGE ONLY]",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-forge",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/789/675/256/256/638144267881390750.png"
+  },
+  {
+    "name": "ConnectedTexturesMod",
+    "description": "A resource pack extension library",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ctm",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/102/452/256/256/636330854499701192.png"
+  },
+  {
+    "name": "Configured",
+    "description": "Automatic in-game configuration menus for every mod!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/configured",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/871/317/256/256/638288810833209348.png"
+  },
+  {
+    "name": "Macaw's Windows",
+    "description": "Adds lots of Windows, Mosaic Glass, Blinds, Shutters, Curtains and more..!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-windows",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/877/195/256/256/638302089747019943.png"
+  },
+  {
+    "name": "Explorer's Compass",
+    "description": "Explorer's Compass is an item that allows you to locate structures anywhere in the world.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/explorers-compass",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/392/538/256/256/637586809619523367.png"
+  },
+  {
+    "name": "Torchmaster",
+    "description": "Adds a special torch which prevents mob spawning in a configurable radius",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/torchmaster",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/65/19/256/256/636158304682638960.png"
+  },
+  {
+    "name": "Necronomicon API",
+    "description": "A personal utility library, making development in both platforms easier.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/necronomicon",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/888/890/256/256/638327969824913874.png"
+  },
+  {
+    "name": "Mekanism",
+    "description": "High-tech machinery, powerful energy generation, fancy gadgets and more. Now on Curse!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mekanism",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/492/672/256/256/637801316302309362.png"
+  },
+  {
+    "name": "Fusion (Connected Textures)",
+    "description": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/835/860/256/256/638227854854712053.png"
+  },
+  {
+    "name": "Better Compatibility Checker",
+    "description": "Changes the default server compatability check to compare modpack versions",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/461/341/256/256/637741010594154538.png"
+  },
+  {
+    "name": "In Control!",
+    "description": "Be In Control of mob spawns",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/in-control",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/85/377/256/256/636201452105591653.png"
+  },
+  {
+    "name": "Alternate Current",
+    "description": "An efficient and non-locational redstone dust implementation",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/alternate-current",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/456/903/256/256/637728514120819434.png"
+  },
+  {
+    "name": "Macaw's Trapdoors",
+    "description": "Adds vanila trapdoors in every plank variation, and some new trapdoors too!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/292/157/256/256/637324647329746340.jpeg"
+  },
+  {
+    "name": "Mowzie's Mobs",
+    "description": "Powerful overworld enemies and more!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/156/392/256/256/636639048661099951.png"
+  },
+  {
+    "name": "Cucumber Library",
+    "description": "A library of shared code and functionality used by my mods.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cucumber",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/930/446/256/256/638403276038916842.png"
+  },
+  {
+    "name": "FTB Ultimine (Forge)",
+    "description": "Harvest multiple blocks at once",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/972/578/256/256/638474886453116037.png"
+  },
+  {
+    "name": "TrashSlot",
+    "description": "Adds a trash slot to the inventory screen that allows deletion of unwanted items.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/trashslot",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/24/977/256/256/635765606634181465.png"
+  },
+  {
+    "name": "Iron Chests",
+    "description": "Iron Chest mod",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/iron-chests",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/15/434/256/256/635625656444075090.png"
+  },
+  {
+    "name": "Visual Workbench [Forge & Fabric]",
+    "description": "Items stay inside of crafting tables and are also rendered on top. It's really fancy!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/visual-workbench",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/802/986/256/256/638168095863992377.png"
+  },
+  {
+    "name": "Prism [Neo/Forge]",
+    "description": "A library all about color! Provides lots of color-related functionality for dependent mods.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/prism-lib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/581/617/256/256/637946673404611382.png"
+  },
+  {
+    "name": "Trash Cans",
+    "description": "Trash Cans adds trash cans which can be used to void items, liquids, and energy!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/trash-cans",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/285/98/256/256/637299803413888206.png"
+  },
+  {
+    "name": "Create Crafts & Additions",
+    "description": "Electrifying the Create mod!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png"
+  },
+  {
+    "name": "Euphoria Patches",
+    "description": "Euphoria Patches is an add-on for Complementary Shaders, extending it with more optional features and settings.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/euphoria-patches",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/880/965/256/256/638310772365087412.png"
+  },
+  {
+    "name": "Guard Villagers",
+    "description": "Guards that help with village pest control",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/guard-villagers",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/280/785/256/256/637283115951339629.png"
+  },
+  {
+    "name": "Mekanism Generators",
+    "description": "Advanced energy generation for Mekanism.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mekanism-generators",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/492/674/256/256/637801316650295179.png"
+  },
+  {
+    "name": "Cooking for Blockheads",
+    "description": "Adds a multiblock kitchen that shows recipes you can make with what ingredients you have available.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/19/465/256/256/635695679965732511.png"
+  },
+  {
+    "name": "EpheroLib",
+    "description": "Fabric/Forge library mod to make it a bit easier to develop mods for both platforms",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/epherolib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/858/479/256/256/638263668035212512.png"
+  },
+  {
+    "name": "Building Gadgets",
+    "description": "A collection of Gadgets to make building large structures a little bit easier!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/161/452/256/256/636672128890190531.png"
+  },
+  {
+    "name": "L_Ender 's Cataclysm",
+    "description": "Add Dungeons and Bosses",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/lendercataclysm",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/460/870/256/256/637739722679428303.png"
+  },
+  {
+    "name": "Default Options",
+    "description": "A way for modpacks to ship a default (key) configuration without having to include an options.txt file.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/default-options",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/25/393/256/256/635772772655629740.png"
+  },
+  {
+    "name": "Fast Async World Save[Forge/Fabric]",
+    "description": "Prevent lag-spikes and data loss during intermittent world saves",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/920/973/256/256/638384996050010285.png"
+  },
+  {
+    "name": "Repurposed Structures (Neoforge/Forge)",
+    "description": "Adds more variations of vanilla structures and features such as a Jungle Fortress!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/repurposed-structures",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/255/455/256/256/637201901951380334.png"
+  },
+  {
+    "name": "Blueprint",
+    "description": "Library that implements the framework of all Abnormals mods!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/blueprint",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/312/201/256/256/637404991289658535.png"
+  },
+  {
+    "name": "Immersive Engineering",
+    "description": "A retro-futuristic tech mod!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-engineering",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/20/135/256/256/635707329671959611.png"
+  },
+  {
+    "name": "YetAnotherConfigLib",
+    "description": "A builder-based configuration library for Minecraft.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yacl",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/598/727/256/256/637977258872864320.png"
+  },
+  {
+    "name": "Tool Belt",
+    "description": "A utility belt that holds your tools",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/tool-belt",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/88/400/256/256/636223857507356095.png"
+  },
+  {
+    "name": "Mantle",
+    "description": "Shared code for Forge mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mantle",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/488/103/256/256/637791963715589901.png"
+  },
+  {
+    "name": "Recipe Essentials[Forge/Fabric]",
+    "description": "Essential fixes and improvements around recipes and crafting",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/871/402/256/256/638289037640254884.png"
+  },
+  {
+    "name": "Fast Paintings",
+    "description": "Fixes and optimizes painting performance by making them blocks. Also allows customizing their model",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fast-paintings",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/842/714/256/256/638238468460858103.png"
+  },
+  {
+    "name": "Macaw's Furniture",
+    "description": "Decorate your world with wardrobes, drawers, chairs, desks, tables and more...!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-furniture",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/522/145/256/256/637842504492835910.png"
+  },
+  {
+    "name": "What Are They Up To (Watut)",
+    "description": "Lets you see if players are typing, in a GUI, idle, with cool ingame visuals",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/914/103/256/256/638370880469858157.png"
+  },
+  {
+    "name": "CoFH Core",
+    "description": "Contains Core Functionality for all Team CoFH mods. Also does some really cool stuff on its own!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cofh-core",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/14/190/256/256/635588122347757413.png"
+  },
+  {
+    "name": "Just Zoom",
+    "description": "Zoom by pressing a hotkey and adjust the zoom factor with your mouse wheel!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/just-zoom",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/473/460/256/256/637765122545485154.png"
+  },
+  {
+    "name": "Log Begone",
+    "description": "Fork of Shut Up Console - Tell those those annoy logs lines begone!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/log-begone",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/557/92/256/256/637903174661344067.png"
+  },
+  {
+    "name": "Loot Integrations",
+    "description": "Allows loot from loottables to be integrated into other lootables, inherently adds better dungeon loot to a few structure mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/loot-integrations",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/531/625/256/256/637853939577730031.png"
+  },
+  {
+    "name": "Create: Steam 'n' Rails",
+    "description": "Adding depth to Create's rail network & steam system",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1065/609/256/256/638599304770885171.webp"
+  },
+  {
+    "name": "Security Craft",
+    "description": "Adds plenty of blocks and items to defend and secure your base with.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/security-craft",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/107/287/256/256/636364946300155797.png"
+  },
+  {
+    "name": "Leaves Be Gone [Forge & Fabric]",
+    "description": "Quick leaf decay from cutting down trees. Built for fast performance and mod compat!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/858/41/256/256/638263100611823642.png"
+  },
+  {
+    "name": "Falling Leaves (NeoForge/Forge)",
+    "description": "Falling Leaves from trees",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/361/573/256/256/637527216660526582_animated.gif"
+  },
+  {
+    "name": "Iron Furnaces",
+    "description": "Inspired by cpw's Iron Chests, this mod introduces a variety of new furnaces to the game.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/307/865/256/256/637389904761889621.png"
+  },
+  {
+    "name": "Advancement Plaques [Neo/Forge]",
+    "description": "Replace those boring advancement popups with something flashier.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/advancement-plaques",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/409/257/256/256/637624038913829647.png"
+  },
+  {
+    "name": "Better Combat [Fabric & Forge]",
+    "description": "⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/566/413/256/256/637925434672465483.png"
+  },
+  {
+    "name": "Kiwi 🥝 (NeoForge)",
+    "description": "Minecraft modding library",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/kiwi",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/775/790/256/256/638117430215424259.png"
+  },
+  {
+    "name": "XP Tome",
+    "description": "Adds a book that can store a configurable amount of XP.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/xp-tome",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/229/164/256/256/637053785549438117.png"
+  },
+  {
+    "name": "Nether's Delight",
+    "description": "Nether addon for Farmer's Delight",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/nethers-delight",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/397/613/256/256/637598857629083481.png"
+  },
+  {
+    "name": "Redirector [Modern]",
+    "description": "Redirect Enum#values() allocation in codes and improve game performance.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/redirector",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/940/678/256/256/638421369908575621.png"
+  },
+  {
+    "name": "Inventory HUD+",
+    "description": "Adds your main inventory, potion effects and your equipments to your HUD. And few other features.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/245/612/256/256/637152714912784543.png"
+  },
+  {
+    "name": "Neruina - Ticking Entity Fixer",
+    "description": "A Mod that prevents ticking-related crashes from bricking worlds",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/neruina",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/857/489/256/256/638262012283205727.png"
+  },
+  {
+    "name": "Industrial Foregoing",
+    "description": "A collection of machines to make your minecraft builds easier to automate",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png"
+  },
+  {
+    "name": "Chunk Sending[Forge/Fabric]",
+    "description": "Optimizes chunk packet delivery",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/782/744/256/256/638130016628532924.png"
+  },
+  {
+    "name": "Cyclops Core",
+    "description": "Library mod for EvilCraft, Integrated Dynamics and others.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cyclops-core",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/21/299/256/256/635725451812161186.png"
+  },
+  {
+    "name": "Creeper Overhaul",
+    "description": "A mod which overhauls the vanilla creepers!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/473/162/256/256/637764359461113953.png"
+  },
+  {
+    "name": "Cherished Worlds (Fabric/Forge/NeoForge/Quilt)",
+    "description": "Favorite/pin/bookmark certain worlds, which will always be at the top of the list and cannot be deleted.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cherished-worlds",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/180/595/256/256/636793993834717165.png"
+  },
+  {
+    "name": "Let Me Despawn",
+    "description": "Improves performance by tweaking mob despawn rules.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/let-me-despawn",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/594/180/256/256/637967642391557499.png"
+  },
+  {
+    "name": "CorgiLib",
+    "description": "A library mod containing code used across Corgi Taco's mods.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/corgilib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/627/145/256/256/638021716127216922.png"
+  },
+  {
+    "name": "Zeta",
+    "description": "Comprehensive Load-Bearing Library for Modular Mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/zeta",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/941/302/256/256/638422437053245782.png"
+  },
+  {
+    "name": "Apotheosis",
+    "description": "All things that should have been.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/apotheosis",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/806/643/256/256/638174667713250064.png"
+  },
+  {
+    "name": "Titanium",
+    "description": "Library for Horizon Studio",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/titanium",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/204/596/256/256/636941376880705827.png"
+  },
+  {
+    "name": "Lithostitched",
+    "description": "Library mod with new configurability and compatibility enhancements for worldgen",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/lithostitched",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/903/937/256/256/638353757551138885.png"
+  },
+  {
+    "name": "FTB Essentials (Forge & Fabric)",
+    "description": "Adds many essential utility commands for servers",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-essentials",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/972/569/256/256/638474884133404936.png"
+  },
+  {
+    "name": "Bad Wither No Cookie - Reloaded",
+    "description": "Localizes the wither and dragon death sounds.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/468/874/256/256/637753300913400544.png"
+  },
+  {
+    "name": "Fast IP Ping",
+    "description": "Yeet the laggy reversed DNS lookup for literal IP server addresses",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/867/209/256/256/638280200199358443.png"
+  },
+  {
+    "name": "Noisium",
+    "description": "Optimises worldgen performance for a better gameplay experience.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/noisium",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/897/557/256/256/638342794806098251.png"
+  },
+  {
+    "name": "FramedBlocks",
+    "description": "Fancy building blocks",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/framedblocks",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
+  },
+  {
+    "name": "YUNG's Better Jungle Temples (Forge)",
+    "description": "A complete redesign of Minecraft's jungle temples!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/122/256/256/638311019167898804.png"
+  },
+  {
+    "name": "Charm of Undying (Fabric/Forge/Quilt)",
+    "description": "Adds curios and trinkets support for the Totem of Undying so you can place it in a slot and don't have to be holding it. Formerly known as Curio of Undying and Trinket of Undying.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/charm-of-undying",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/215/62/256/256/636995551385565683.png"
+  },
+  {
+    "name": "CC: Tweaked",
+    "description": "CC: Tweaked is a fork of ComputerCraft, adding programmable computers, turtles and more to Minecraft.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cc-tweaked",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/130/871/256/256/636463439690354770.png"
+  },
+  {
+    "name": "Macaw's Lights and Lamps",
+    "description": "Adds vanila styled lamps, torches, street lamps, paper lamps, slabs... Make your worlds brighter!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1018/353/256/256/638544982594670903.png"
+  },
+  {
+    "name": "The Aether",
+    "description": "The Aether Team presents: The original Aether mod!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aether",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/816/783/256/256/638194171174203953.png"
+  },
+  {
+    "name": "YUNG's Better Witch Huts (Forge)",
+    "description": "Adds overhauled witch huts to swamps!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/129/256/256/638311020526615087.png"
+  },
+  {
+    "name": "Too Fast",
+    "description": "Fixes \"moved too quickly\".",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/too-fast",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/459/807/256/256/637736513394075613.png"
+  },
+  {
+    "name": "Pick Up Notifier [Forge & Fabric]",
+    "description": "Be notified about all the things you've just collected.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/776/151/256/256/638118059918529024.png"
+  },
+  {
+    "name": "BetterNether",
+    "description": "Improvements for the Nether (plants, biomes, structures, worldgen)",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/betternether",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/471/574/256/256/637760293478357857.png"
+  },
+  {
+    "name": "Villager Names",
+    "description": "🧑‍🌾 Gives all villager entities a default or custom name to liven up the world.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/villager-names",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/230/283/256/256/637059743994941605.png"
+  },
+  {
+    "name": "YUNG's Bridges (Forge)",
+    "description": "Adds beautiful naturally generated bridges throughout the world",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-bridges",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/881/134/256/256/638311021928949709.png"
+  },
+  {
+    "name": "Macaw's Roofs",
+    "description": "Build roofs with actual roofs instead of stairs!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-roofs",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/598/801/256/256/637977355903879047.jpeg"
+  },
+  {
+    "name": "Fabric Language Kotlin",
+    "description": "Fabric language module for Kotlin",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1111/600/256/256/638663264350908845.png"
+  },
+  {
+    "name": "Terralith",
+    "description": "A 1.18+ overworld expansion for Fabric and Forge, with tons of new biomes and caves!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/terralith",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/554/659/256/256/637897033487568646.png"
+  },
+  {
+    "name": "Dark Utilities",
+    "description": "Expansive content mod which adds a little bit of everything.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/dark-utilities",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/981/434/256/256/638488257462245625.jpeg"
+  },
+  {
+    "name": "Ice and Fire: Dragons",
+    "description": "Dragons and Mythical creatures in minecraft.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/190/975/256/256/636857615673605328.png"
+  },
+  {
+    "name": "ChoiceTheorem's Overhauled Village",
+    "description": "Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/834/260/256/256/638224736286948659.png"
+  },
+  {
+    "name": "Extreme sound muffler - (Neo)Forge",
+    "description": "Forget about those nasty sounds! - Clientside sound muffler.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/314/978/256/256/637414152851892931.png"
+  },
+  {
+    "name": "Jade Addons (NeoForge)",
+    "description": "Jade 🔍's additional mod supports for NeoForge",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/jade-addons",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/497/744/256/256/637814611670008374.png"
+  },
+  {
+    "name": "Ocean's Delight",
+    "description": "Ocean's Delight is an addon mod for Farmer's Delight based around adding culinary content to the ocean!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/oceans-delight",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/793/744/256/256/638151779574318595.png"
+  },
+  {
+    "name": "Applied Energistics 2 Wireless Terminals",
+    "description": "An addon for Applied Energistics 2 that adds wireless versions of several Terminals",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1036/500/256/256/638561060692728338.png"
+  },
+  {
+    "name": "Mystical Agriculture",
+    "description": "Adds resource crops for more than 130+ vanilla & modded materials!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/930/447/256/256/638403276234356700.png"
+  },
+  {
+    "name": "Item Highlighter [Neo/Forge]",
+    "description": "Highlights newly picked-up items.  Simple and convenient.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/item-highlighter",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/426/859/256/256/637657810753408357.png"
+  },
+  {
+    "name": "CodeChicken Lib 1.8.+",
+    "description": "Contains various tools to make modding easier.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/36/121/256/256/635934545550873146.jpeg"
+  },
+  {
+    "name": "Sophisticated Storage",
+    "description": "Storage mod with multiple tiers and functional upgrades",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png"
+  },
+  {
+    "name": "Construction Wand",
+    "description": "Construction Wands make building easier! (A new take on the Builder's Wand)",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/construction-wand",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/290/591/256/256/637319211342552224.png"
+  },
+  {
+    "name": "McJtyLib",
+    "description": "Companion mod for all mods by McJty (RFTools, XNet, Deep Resonance, Not Enough Wands, SignTastic, ...))",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mcjtylib",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/21/825/256/256/635733177880067480.png"
+  },
+  {
+    "name": "Dungeon Crawl",
+    "description": "Generates large underground dungeon structures in the overworld.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/410/569/256/256/637627452553277521.png"
+  },
+  {
+    "name": "Bountiful",
+    "description": "Adds bounty boards, giving rewards for collecting different blocks and items.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bountiful",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/182/931/256/256/636811603181300719.png"
+  },
+  {
+    "name": "Almost Unified",
+    "description": "Unify all resources.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/almost-unified",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/560/421/256/256/637911433758832569.png"
+  },
+  {
+    "name": "Better Third Person",
+    "description": "Improves third-person camera view.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/better-third-person",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/392/806/256/256/637587416534783614.png"
+  },
+  {
+    "name": "MVS - Moog's Voyager Structures",
+    "description": "160+ structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & villagers along the way!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/869/885/256/256/638285724433169131.png"
+  },
+  {
+    "name": "Thermal Foundation",
+    "description": "The Foundation of a Thermally Expanding World!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/thermal-foundation",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/416/888/256/256/637640074076654754.png"
+  },
+  {
+    "name": "Reese's Sodium Options",
+    "description": "Alternative Options Menu for Sodium",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/414/599/256/256/637636962431399112.png"
+  },
+  {
+    "name": "iChunUtil",
+    "description": "Shared library used by iChun's mods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ichunutil",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/19/167/256/256/635690971311763313.png"
+  },
+  {
+    "name": "Structory: Towers",
+    "description": "Adds immersive, biome-themed towers to the world, for Fabric/Forge/Quilt.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/structory-towers",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/727/353/256/256/638080607378294267.png"
+  },
+  {
+    "name": "Decorative Blocks",
+    "description": "Some new blocks to build with",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/248/967/256/256/637171183613258353.png"
+  },
+  {
+    "name": "Essential Mod",
+    "description": "The best way to play Minecraft. Enhanced Minecraft features in one simple mod.  Fast, friendly, and for everyone!",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/essential-mod",
+    "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/1004/127/256/256/638525051411002219.png"
+  }
+]
